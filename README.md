@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Behlül Umut ÖZ!
-- 👀 I’m interested Front-End and Back-End
+- 👀 I’m interested Front-End
 - 🌱 I’m currently learning html,css3,js,wordpress and PHP.
 - 📫 To reach me [Linkedin](https://www.linkedin.com/in/behl%C3%BCl-umut-%C3%B6z-12bb61176/) 
 
